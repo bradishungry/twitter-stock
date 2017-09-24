@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_4e3016357c99ac51e06280eae493fb9a93e80a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_0d3c5cbb8aaf9a040a2ac1df368fd7027d7c130a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_7d9078ebc5234cfae03b227111196bb9e7f1386c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0_fb5bb3d73b788913c9f39b75e2745798d8d20553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_d85f7ea71acecbf6f616d455ed998070d53ef8fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_175b053f41310e78262fe827bb195f0a4b607cea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_85da36ca129ac0d3b1d3fd8bd707be6ed08e9111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e46dc03ec26bc259857e1cedb1ba25a5b30508ff">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a00c2c9aa3fbe503daae5121fd8abd72de24230c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_fb624aeba26fcd08cadf9458af4ffd77c42cd2a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0_80e560a8d2ad4a9cf7c1a4565ca5092e9df8476d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_f0c5fff9de6d348686afa4a73fa90c2178aa15cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_472211c9748e0b64b1bddb6d74178785ed5ae67d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_9c18b18b19ff8c295c432b203d97e95ee96bdacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751ba7dd553c9f042ce03162a32b8190f8d8cc80">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a4d42bf8eba9c12623110c9357f1138f86eb8e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_9403eca715f25e64940419c5342c7a9cefa0355f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_408c1ef904a959ed5632d6b18d127072f2cfb01c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_d8905daa129dc37ac2cba51aa4e6740d56ec4b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_8bd80987b6f07bda541308fa550b2d0a581b3df4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_e7f00c425066ff58747bb06b15f7f1359f307925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_10e36ff969f789bdcddb374436c8eb8d7ad93d45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_5d515eb4c969c02fe44ae769f05e86d678454a4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_9a2168962ca7ab4663b6f43d08d9dc85bc2ade70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/BradBoswell/309/YT_1_TwitterStock/Frontend/twitterstock/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_968ae5fe3d655b32cc3cfd8c60273899183b1bca/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,24 @@
+Docker Instructions
+
+Install
+1. Download here: https://www.docker.com/products/docker-toolbox
+2. Open terminal and type 
+
+Setup:
+pip install tweepy
+pip install pandas
+pip install pymysql
+pip install ujson
+docker cp parse.py 0c784e32c516:/twitterStockApp
+docker cp twitterStream.py 0c784e32c516:/twitterStockApp
+
+docker run -v /etc/localtime:/etc/localtime:ro -i -t -d 0e1a1df6ed54
+docker exec -i -t ca3398589480 /bin/bash
+
+docker commit 0c784e32c516 bmeeder22/python:latest
+
+Create new image
+1. Create new repo on dockerhub
+2. docker pull bmeeder22/<REPO>
+3. docker tag <image>:<tag> docker.io/bmeeder22/<newrepo>
+4. docker commit <changedContainer> bmeeder22/python

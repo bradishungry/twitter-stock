@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Table Style</title>
+	<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+	<link rel="stylesheet" type="text/css" href="backendDemoCss.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script type="text/javascript">
+        var handleButton = function () {
+            var search = $('#search').val();
+            $('tbody').empty();
+            serverRequest(search);
+        };
+
+        var search = function() {
+            $('#results').empty();
+            var search = $('#search').val();
+            $.ajax({
+                url: "search.php",
+                method: "POST",
+                data: { search : search },
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+
+                    data.forEach(function(element) {
+                        var row = $('<div>'+element+'</div>');
+                        $('#results').append(row);
+                    });
+                }
+            });
+        };
+
+        var serverRequest = function(search) {
+            console.log(search);
+
+            $.ajax({
+                url: "graphData.php",
+                method: "POST",
+                data: { search : search },
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+
+                    data.forEach(function(element) {
+                        var hour = element[0];
+                        var count = element[1];
+                        var row = $('<tr> <td class="text-left">'+ hour +'</td> <td class="text-left">'+ count +'</td> </tr>');
+                        $('tbody').append(row);
+                    });
+                }
+            });
+        };
+	</script>
+</head>
+
+<body>
+    <input onkeyup="search()" type="text" id="search">
+    <div id="results"></div>
+    <button onclick="handleButton()">Enter</button>
+	<div class="table-title">
+		<h3>Data Table</h3>
+	</div>
+	<table class="table-fill">
+		<thead>
+			<tr>
+				<th class="text-left">Hour</th>
+				<th class="text-left">Count</th>
+			</tr>
+		</thead>
+		<tbody class="table-hover"></tbody>
+	</table>
+</body>
